@@ -23,7 +23,6 @@ class Book:
             for rv in book.review:
                 print(rv)
 
-
 book1 = Book("Python", "Rakibul")
 book1.add_new_review("Good Product")
 
