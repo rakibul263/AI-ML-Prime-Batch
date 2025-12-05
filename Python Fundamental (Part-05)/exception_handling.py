@@ -7,3 +7,5 @@ except ValueError:
   print(f"Enter valid input");
 else:
   print(f"ans is : {ans}")
+finally:
+  print("End of our program");
